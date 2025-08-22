@@ -1,0 +1,743 @@
+FILE TEXT EXTRACTION RESULTS
+==================================================
+
+File: acord-1-form.txt
+Type: text
+------------------------------
+Extracted Text:
+# ACORD 1 - PROPERTY LOSS NOTICE
+
+**DATE (MM/DD/YYYY):** 04/15/2025
+
+## AGENCY INFORMATION
+**AGENCY NAME:** Premier Insurance Agency  
+**CONTACT:** Sarah Johnson  
+**PHONE (A/C, No, Ext):** (555) 432-1098 Ext. 204  
+**FAX (A/C, No):** (555) 432-1099  
+**E-MAIL ADDRESS:** sjohnson@premierinsurance.com  
+**CODE:** PA-5543  
+**SUBCODE:** 001  
+**AGENCY CUSTOMER ID:** SB00723  
+
+## POLICY INFORMATION
+**INSURED LOCATION CODE:** 001  
+**DATE OF LOSS AND TIME:** 04/10/2025 2:15 ☑ PM ☐ AM  
+
+### PROPERTY / HOME POLICY
+**CARRIER:** Northeast Insurance Company  
+**NAIC CODE:** 12345  
+**POLICY NUMBER:** CPP-876543-22  
+
+**LINE OF BUSINESS:** Commercial Property  
+
+### FLOOD POLICY
+**CARRIER:**  
+**NAIC CODE:**  
+**POLICY NUMBER:**  
+
+### WIND POLICY
+**CARRIER:**  
+**NAIC CODE:**  
+**POLICY NUMBER:**  
+
+## INSURED
+**NAME OF INSURED (First, Middle, Last):** Rivertown Coffee Shop LLC  
+**DATE OF BIRTH:**  
+**FEIN (if applicable):** 81-5432109  
+**MARITAL STATUS / CIVIL UNION (if applicable):** N/A  
+**PRIMARY PHONE #:** (555) 789-4321 ☐ HOME ☑ BUS ☐ CELL  
+**SECONDARY PHONE #:** (555) 987-6543 ☐ HOME ☐ BUS ☑ CELL  
+**INSURED'S MAILING ADDRESS:** 123 Main Street, Suite 101, Rivertown, ST 12345  
+**PRIMARY E-MAIL ADDRESS:** owner@rivertowncoffee.com  
+**SECONDARY E-MAIL ADDRESS:** manager@rivertowncoffee.com  
+
+**NAME OF SPOUSE (First, Middle, Last) (if applicable):**  
+**DATE OF BIRTH:**  
+**FEIN (if applicable):**  
+**MARITAL STATUS / CIVIL UNION (if applicable):**  
+**PRIMARY PHONE #:** ☐ HOME ☐ BUS ☐ CELL  
+**SECONDARY PHONE #:** ☐ HOME ☐ BUS ☐ CELL  
+**SPOUSE'S MAILING ADDRESS (if applicable):**  
+**PRIMARY E-MAIL ADDRESS:**  
+**SECONDARY E-MAIL ADDRESS:**  
+
+## CONTACT
+☑ CONTACT INSURED  
+**NAME OF CONTACT (First, Middle, Last):** Michael Chen (Owner)  
+**PRIMARY PHONE #:** (555) 987-6543 ☐ HOME ☐ BUS ☑ CELL  
+**SECONDARY PHONE #:** (555) 789-4321 ☐ HOME ☑ BUS ☐ CELL  
+**WHEN TO CONTACT:** Afternoons after 1:00 PM  
+**CONTACT'S MAILING ADDRESS:** 123 Main Street, Suite 101, Rivertown, ST 12345  
+**PRIMARY E-MAIL ADDRESS:** michael@rivertowncoffee.com  
+**SECONDARY E-MAIL ADDRESS:** owner@rivertowncoffee.com  
+
+## LOSS
+### LOCATION OF LOSS
+**STREET:** 123 Main Street, Suite 101  
+**CITY, STATE, ZIP:** Rivertown, ST 12345  
+**COUNTRY:** USA  
+**DESCRIBE LOCATION OF LOSS IF NOT AT SPECIFIC STREET ADDRESS:** Water damage in back storage room  
+
+### KIND OF LOSS
+☐ FIRE  
+☐ THEFT  
+☐ LIGHTNING  
+☐ HAIL  
+☐ FLOOD  
+☐ WIND  
+☑ OTHER: Water Damage  
+
+**POLICE OR FIRE DEPARTMENT CONTACTED:** N/A  
+**REPORT NUMBER:** N/A  
+**REPORTED BY:** Michael Chen  
+**REPORTED TO:** Sarah Johnson  
+**PROBABLE AMOUNT ENTIRE LOSS:** $8,750  
+
+### DESCRIPTION OF LOSS & DAMAGE
+Water pipe burst in ceiling above storage room causing damage to ceiling tiles, drywall, and inventory storage shelving. Approximately 200 sq ft affected. Water was shut off within 30 minutes of discovery. Commercial dehumidifiers currently in use to dry affected area.
+
+---
+
+© 1988-2019 ACORD CORPORATION. All rights reserved.  
+The ACORD name and logo are registered marks of ACORD  
+ACORD 1 (2019/07)
+
+==================================================
+
+File: acord-101-completed.txt
+Type: text
+------------------------------
+Extracted Text:
+# COMPLETED SAMPLE ACORD 101 - ADDITIONAL REMARKS SCHEDULE
+
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,  
+**FORM NUMBER:** ACORD 3  
+**FORM TITLE:** LIABILITY NOTICE OF OCCURRENCE / CLAIM  
+
+**AGENCY CUSTOMER ID:** HCS-23782  
+**LOC #:** 004  
+
+**AGENCY:** Eastern Insurance Brokers  
+**CARRIER:** Summit Insurance Company  
+**NAIC CODE:** 44728  
+**POLICY NUMBER:** GL-23578-B  
+**NAMED INSURED:** Harrison Construction Services, LLC  
+**EFFECTIVE DATE:** 06/01/2024  
+
+## ADDITIONAL REMARKS
+
+**Coverage Information:**  
+Commercial General Liability Policy with the following limits:
+- Each Occurrence Limit: $2,000,000
+- General Aggregate: $4,000,000
+- Products-Completed Operations Aggregate: $4,000,000
+- Personal & Advertising Injury: $1,000,000
+- Damage to Premises Rented: $300,000
+- Medical Expense (per person): $10,000
+
+**Additional Parties Involved:**  
+
+1. **Property Owner:**  
+   Newbury Street Holdings, LLC  
+   500 Boylston Street, Suite 1400  
+   Boston, MA 02116  
+   Contact: Richard Manning  
+   Phone: (617) 555-3300  
+   Relationship: Retail building owner and landlord to the damaged retail store
+
+2. **Retail Business:**  
+   Newbury Street Boutique, Inc.  
+   290 Newbury Street  
+   Boston, MA 02116  
+   Contact: Linda Shapiro, Manager  
+   Phone: (617) 555-2200  
+   Insurance: Hartford Business Insurance, Policy #HB-789456  
+   Relationship: Business tenant occupying damaged property
+
+3. **Crane Equipment Manufacturer:**  
+   Superior Crane Systems, Inc.  
+   8700 Industrial Boulevard  
+   Pittsburgh, PA 15220  
+   Crane Model: SCS-450HD  
+   Serial Number: HD45679283  
+   Purchase Date: 06/15/2023  
+   Last Maintenance: 01/03/2025
+
+**Additional Information on Loss:**  
+Weather conditions at time of incident: Clear, 38°F, winds 5-7 mph  
+Construction project: Commercial retail renovation  
+Project start date: 11/05/2024  
+Expected completion: 05/15/2025  
+Project value: $3.2 million
+
+The retail store will be closed for an estimated 3-4 months for repairs, resulting in business interruption claims. The neighboring businesses have reported no physical damage but are claiming reduced foot traffic due to the accident site and safety barriers.
+
+**Immediate Actions Taken:**  
+1. Emergency services contacted immediately
+2. Building secured by construction emergency response team
+3. Temporary structural supports installed to prevent further collapse
+4. Water shut off to mitigate ongoing water damage
+5. Debris removal initiated after OSHA preliminary assessment
+6. Security personnel stationed at site 24/7
+7. Engineering firm hired to assess structural integrity
+
+**Subcontractors On Site at Time of Loss:**  
+1. Boston Electrical Solutions (electrical contractor)
+2. Metropolitan Plumbing Services (plumbing contractor)
+3. Urban Scaffolding, Inc. (scaffolding installation)
+
+None of the subcontractors were directly involved in crane operation at the time of the incident.
+
+**Additional Witnesses:**  
+4. **Teresa Huang** (Retail store employee)  
+   144 Charles Street  
+   Boston, MA 02114  
+   (617) 555-9087
+
+5. **Frank Miller** (Construction worker)  
+   57 Dorchester Avenue  
+   Dorchester, MA 02125  
+   (617) 555-4433
+
+**Prior Claims History:**  
+Harrison Construction Services has had two minor property damage claims in the past three years:
+1. 06/12/2023: $12,500 - Vehicle damaged by falling materials
+2. 11/28/2024: $8,750 - Fence damage at residential construction site
+
+No previous claims involving crane operations or bodily injury.
+
+==================================================
+
+File: acord-101-form.txt
+Type: text
+------------------------------
+Extracted Text:
+# ACORD 101 - ADDITIONAL REMARKS SCHEDULE
+
+**THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,**  
+**FORM NUMBER:** ACORD 1  
+**FORM TITLE:** PROPERTY LOSS NOTICE  
+
+**Page:** 1 of 1  
+**AGENCY CUSTOMER ID:** SB00723  
+
+**AGENCY:** Premier Insurance Agency  
+**CARRIER:** Northeast Insurance Company  
+**NAIC CODE:** 12345  
+**POLICY NUMBER:** CPP-876543-22  
+**NAMED INSURED:** Rivertown Coffee Shop LLC  
+**EFFECTIVE DATE:** 09/01/2024  
+
+## ADDITIONAL REMARKS
+
+Affected inventory includes:
+1. Coffee beans (10 boxes) - Est. value $1,200
+2. Paper products (cups, sleeves, etc.) - Est. value $950
+3. Storage shelving units (3) - Est. value $1,500
+4. Electrical equipment (1 coffee grinder, 1 small refrigerator) - Est. value $2,100
+5. Building materials (ceiling, drywall, flooring) - Est. value $3,000
+
+Total estimated damages: $8,750
+
+Initial emergency mitigation services provided by FastDry Restoration Services (555-111-2222). Building owner has been notified. Business remains partially operational with limited service in front of store.
+
+---
+
+© 2008 ACORD CORPORATION. All rights reserved.  
+The ACORD name and logo are registered marks of ACORD  
+ACORD 101 (2008/01)
+
+==================================================
+
+File: acord-3-completed.txt
+Type: text
+------------------------------
+Extracted Text:
+# COMPLETED SAMPLE ACORD 3 - LIABILITY NOTICE OF OCCURRENCE / CLAIM
+
+## AGENCY INFORMATION
+**DATE:** 01/18/2025
+**PRODUCER:** Eastern Insurance Brokers
+**CONTACT:** Sarah Johnson
+**PHONE:** (617) 555-7200
+**FAX:** (617) 555-7201
+**E-MAIL:** sjohnson@easternins.com
+**CODE:** EI3948
+**SUBCODE:** 0012
+**AGENCY CUSTOMER ID:** HCS-23782
+
+## POLICY INFORMATION
+**CARRIER:** Summit Insurance Company
+**NAIC CODE:** 44728
+**POLICY NUMBER:** GL-23578-B
+**LINE OF BUSINESS:** Commercial General Liability
+**INSURED LOCATION CODE:** 004
+**DATE OF LOSS AND TIME:** 01/17/2025, 10:45 AM
+
+## INSURED INFORMATION
+**NAME OF INSURED:** Harrison Construction Services, LLC
+**DATE OF BIRTH:** N/A
+**FEIN:** 84-6729135
+**PRIMARY PHONE #:** (617) 555-9876 [X] BUS
+**SECONDARY PHONE #:** (617) 555-9877 [X] CELL
+**INSURED'S MAILING ADDRESS:** 1425 Industrial Parkway, Boston, MA 02128
+**PRIMARY E-MAIL ADDRESS:** michael@harrisonconst.com
+**SECONDARY E-MAIL ADDRESS:** office@harrisonconst.com
+
+## CONTACT INFORMATION
+[X] **CONTACT INSURED**
+**NAME OF CONTACT:** Michael Harrison
+**PRIMARY PHONE #:** (617) 555-9876 [X] BUS
+**SECONDARY PHONE #:** (617) 555-4321 [X] CELL
+**WHEN TO CONTACT:** Business hours (8am-5pm)
+**CONTACT'S MAILING ADDRESS:** 1425 Industrial Parkway, Boston, MA 02128
+**PRIMARY E-MAIL ADDRESS:** michael@harrisonconst.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+
+## OCCURRENCE INFORMATION
+**LOCATION OF OCCURRENCE:**
+**STREET:** 288 Newbury Street
+**CITY, STATE, ZIP:** Boston, MA 02116
+**COUNTRY:** USA
+
+**DESCRIBE LOCATION OF OCCURRENCE IF NOT AT SPECIFIC STREET ADDRESS:**
+Commercial construction site at retail shopping center
+
+**POLICE OR FIRE DEPARTMENT CONTACTED:** Boston Police Department
+**REPORT NUMBER:** BPD-25-01749
+
+**DESCRIPTION OF OCCURRENCE:**
+Construction crane operated by insured's employee collapsed at approximately 10:45 AM on 01/17/2025. The crane boom fell onto the roof of an adjacent occupied retail building, causing significant structural damage and interior water damage due to broken water pipes. Two customers and one employee of the retail store suffered injuries when ceiling materials collapsed. Equipment failure is suspected but investigation is ongoing. OSHA has been notified and has commenced investigation. Site has been secured and temporary supports installed to prevent further collapse.
+
+## TYPE OF LIABILITY
+
+### PREMISES: INSURED IS
+[ ] OWNER
+[ ] TENANT
+[X] OTHER: Contractor
+**TYPE OF PREMISES:** Commercial construction site
+**OWNER'S NAME & ADDRESS:** Newbury Street Holdings, LLC, 500 Boylston Street, Suite 1400, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-3300 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** rmanning@newburyholdings.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+
+### PRODUCTS: INSURED IS
+[ ] MANUFACTURER
+[ ] VENDOR
+[X] OTHER: Operator
+**TYPE OF PRODUCT:** Construction crane (Superior Crane Systems model SCS-450HD)
+**MANUFACTURER'S NAME & ADDRESS:** Superior Crane Systems, Inc., 8700 Industrial Boulevard, Pittsburgh, PA 15220
+**PRIMARY PHONE #:** (412) 555-8900 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** support@superiorcranes.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+**WHERE CAN PRODUCT BE SEEN?** At incident site (288 Newbury Street, Boston, MA)
+
+## INJURED / PROPERTY DAMAGED
+
+### INJURY #1
+**NAME & ADDRESS:** Emily Chen, 45 Commonwealth Ave, Apt 3B, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-2389 [X] CELL
+**SECONDARY PHONE #:** (617) 555-2390 [X] HOME
+**PRIMARY E-MAIL ADDRESS:** echen@email.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+**AGE:** 34
+**SEX:** F
+**OCCUPATION:** Marketing Manager
+**EMPLOYER'S NAME & ADDRESS:** Boston Digital Marketing, 150 State Street, Boston, MA 02109
+**PRIMARY PHONE #:** (617) 555-7700 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** hr@bostondigital.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+**DESCRIBE INJURY:** Head laceration requiring 15 stitches, concussion, shoulder contusion
+**WHERE TAKEN:** Massachusetts General Hospital
+**WHAT WAS INJURED DOING?** Shopping in retail store when ceiling partially collapsed
+
+### INJURY #2
+**NAME & ADDRESS:** Robert Williams, 173 Marlborough Street, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-3456 [X] CELL
+**SECONDARY PHONE #:** (617) 555-3457 [X] HOME
+**PRIMARY E-MAIL ADDRESS:** rwilliams@email.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+**AGE:** 52
+**SEX:** M
+**OCCUPATION:** Accountant
+**EMPLOYER'S NAME & ADDRESS:** Williams & Associates, 200 Clarendon Street, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-8800 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** info@williamsaccounting.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+**DESCRIBE INJURY:** Fractured right tibia, multiple contusions, back strain
+**WHERE TAKEN:** Brigham and Women's Hospital
+**WHAT WAS INJURED DOING?** Customer in retail store when ceiling partially collapsed
+
+### INJURY #3
+**NAME & ADDRESS:** Sarah Martinez, 67 Beacon Hill Drive, Cambridge, MA 02139
+**PRIMARY PHONE #:** (617) 555-6543 [X] CELL
+**SECONDARY PHONE #:** (617) 555-6544 [X] HOME
+**PRIMARY E-MAIL ADDRESS:** smartinez@email.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+**AGE:** 28
+**SEX:** F
+**OCCUPATION:** Retail Sales Associate
+**EMPLOYER'S NAME & ADDRESS:** Newbury Street Boutique, Inc., 290 Newbury Street, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-2200 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** hr@newburyboutique.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+**DESCRIBE INJURY:** Minor cuts from falling debris, sprained ankle
+**WHERE TAKEN:** Treated on scene, later visited urgent care
+**WHAT WAS INJURED DOING?** Working in retail store when ceiling partially collapsed
+
+### PROPERTY DAMAGE #1
+**DESCRIBE PROPERTY:** Retail building at 290 Newbury Street - Two-story commercial structure
+**ESTIMATE AMOUNT:** $875,000
+**WHERE CAN PROPERTY BE SEEN?:** 290 Newbury Street, Boston, MA 02116
+**NAME & ADDRESS (OWNER):** Newbury Street Holdings, LLC, 500 Boylston Street, Suite 1400, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-3300 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** rmanning@newburyholdings.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+
+### PROPERTY DAMAGE #2
+**DESCRIBE PROPERTY:** Interior fixtures, inventory, and business equipment
+**ESTIMATE AMOUNT:** $225,000
+**WHERE CAN PROPERTY BE SEEN?:** 290 Newbury Street, Boston, MA 02116
+**NAME & ADDRESS (OWNER):** Newbury Street Boutique, Inc., 290 Newbury Street, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-2200 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** lshapiro@newburyboutique.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+
+## WITNESSES
+
+### WITNESS #1
+**NAME AND ADDRESS:** James Wilson, 215 Boylston Street, Apt 7C, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-4321 [X] CELL
+**SECONDARY PHONE #:** (617) 555-4322 [X] HOME
+**PRIMARY E-MAIL ADDRESS:** jwilson@email.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+
+### WITNESS #2
+**NAME AND ADDRESS:** Diane Park, 188 Newbury Street, Apt 3, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-8765 [X] CELL
+**SECONDARY PHONE #:** (617) 555-8766 [X] HOME
+**PRIMARY E-MAIL ADDRESS:** dpark@email.com
+**SECONDARY E-MAIL ADDRESS:** N/A
+
+### WITNESS #3
+**NAME AND ADDRESS:** Officer Thomas Reynolds, Boston Police Department, District D-4, 650 Harrison Avenue, Boston, MA 02116
+**PRIMARY PHONE #:** (617) 555-0000 [X] BUS
+**SECONDARY PHONE #:** N/A
+**PRIMARY E-MAIL ADDRESS:** treynolds@bpd.gov
+**SECONDARY E-MAIL ADDRESS:** N/A
+
+## REMARKS
+Initial investigation indicates possible mechanical failure of crane hydraulic system. Crane had been inspected two weeks prior to incident with no issues noted. Construction site was properly permitted and cordoned off, but the crane boom extended beyond safety barriers when it collapsed. Immediate actions taken include securing the site, installing temporary structural supports, water shut-off to prevent further damage, and 24/7 security posted. Insurance carrier adjuster has been dispatched and is expected on site within 24 hours.
+
+**REPORTED BY:** Michael Harrison, Owner
+**REPORTED TO:** Jessica Thompson, Claims Representative
+
+==================================================
+
+File: ACORD1_ACORD101_CPP-456789123_04072025_segment_001.wav
+Type: audio
+------------------------------
+Extracted Text:
+this is Jeff O'Connell Brown ifg companies accepting an accord one property loss notice producer agency name Summit Business Insurance Agency the producer is David Thompson phone number area code 555-345-6789 fax number area code 555-345-6790 producers email.com C O M agency customer ID s's in Sierra vs 78923 - c as in Charlie ensure information date and time of loss April 7th 2025 at 10:45 p.m. policy number cousin Charlie - 456789123 effective date March 1st 2025 expiration date March 1st 2026 the company is Centennial Commercial Insurance name Northside Manufacturing Incorporated tax ID 84 - 3214567 business phone area code 555-432-8765 mobile phone area code 855-321-7654 email operations at Northside mfg.com soper's the outside n o r t h s i d e m f g.com contact person Jennifer Martinez m a r t i n e z operations manager business address 1250 Industrial Parkway Metropolis Illinois 60001 mailing address PO Box 4578 Metropolis Illinois 6002 660002 Corrections zip code 60002 Los information lost location 12
+==================================================
+
+File: Completed Sample ACORD 101 Form.pdf
+Type: pdf
+------------------------------
+Extracted Text:
+COMPLETED SAMPLE ACORD 101 - ADDITIONAL REMARKS
+SCHEDULE
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,
+FORM NUMBER: ACORD 3
+FORM TITLE: LIABILITY NOTICE OF OCCURRENCE / CLAIM
+AGENCY CUSTOMER ID: HCS-23782
+LOC #: 004
+AGENCY: Eastern Insurance Brokers
+CARRIER: Summit Insurance Company
+NAIC CODE: 44728
+POLICY NUMBER: GL-23578-B
+NAMED INSURED: Harrison Construction Services, LLC
+EFFECTIVE DATE: 06/01/2024
+ADDITIONAL REMARKS
+Coverage Information:
+Commercial General Liability Policy with the following limits:
+Each Occurrence Limit: $2,000,000
+General Aggregate: $4,000,000
+Products-Completed Operations Aggregate: $4,000,000
+Personal & Advertising Injury: $1,000,000
+Damage to Premises Rented: $300,000
+Medical Expense (per person): $10,000
+Additional Parties Involved:
+1. Property Owner:
+Newbury Street Holdings, LLC
+500 Boylston Street, Suite 1400
+Boston, MA 02116
+Contact: Richard Manning
+Phone: (617) 555-3300
+Relationship: Retail building owner and landlord to the damaged retail store
+2. Retail Business:
+Newbury Street Boutique, Inc.
+290 Newbury Street
+Boston, MA 02116
+Contact: Linda Shapiro, Manager
+Phone: (617) 555-2200
+Insurance: Hartford Business Insurance, Policy #HB-789456
+Relationship: Business tenant occupying damaged property
+3. Crane Equipment Manufacturer:
+Superior Crane Systems, Inc.
+8700 Industrial Boulevard
+Pittsburgh, PA 15220
+Crane Model: SCS-450HD
+Serial Number: HD45679283
+Purchase Date: 06/15/2023
+Last Maintenance: 01/03/2025
+Additional Information on Loss:
+Weather conditions at time of incident: Clear, 38°F, winds 5-7 mph
+Construction project: Commercial retail renovation
+Project start date: 11/05/2024
+Expected completion: 05/15/2025
+Project value: $3.2 million
+The retail store will be closed for an estimated 3-4 months for repairs, resulting in business interruption
+claims. The neighboring businesses have reported no physical damage but are claiming reduced foot
+traffic due to the accident site and safety barriers.
+Immediate Actions Taken:
+1. Emergency services contacted immediately
+2. Building secured by construction emergency response team
+3. Temporary structural supports installed to prevent further collapse
+4. Water shut off to mitigate ongoing water damage
+5. Debris removal initiated after OSHA preliminary assessment
+6. Security personnel stationed at site 24/7
+7. Engineering firm hired to assess structural integrity
+Subcontractors On Site at Time of Loss:
+1. Boston Electrical Solutions (electrical contractor)
+2. Metropolitan Plumbing Services (plumbing contractor)
+3. Urban Scaffolding, Inc. (scaffolding installation)
+None of the subcontractors were directly involved in crane operation at the time of the incident.
+Additional Witnesses:
+4. Teresa Huang (Retail store employee)
+144 Charles Street
+Boston, MA 02114
+(617) 555-9087
+5. Frank Miller (Construction worker)
+57 Dorchester Avenue
+Dorchester, MA 02125
+(617) 555-4433
+Prior Claims History:
+Harrison Construction Services has had two minor property damage claims in the past three years:
+1. 06/12/2023: $12,500 - Vehicle damaged by falling materials
+2. 11/28/2024: $8,750 - Fence damage at residential construction site
+No previous claims involving crane operations or bodily injury.
+==================================================
+
+File: Completed Sample ACORD 3 Form.pdf
+Type: pdf
+------------------------------
+Extracted Text:
+COMPLETED SAMPLE ACORD 3 - LIABILITY NOTICE OF
+OCCURRENCE / CLAIM
+AGENCY INFORMATION
+DATE: 01/18/2025
+PRODUCER: Eastern Insurance Brokers
+CONTACT: Sarah Johnson
+PHONE: (617) 555-7200
+FAX: (617) 555-7201
+E-MAIL: sjohnson@easternins.com
+CODE: EI3948
+SUBCODE: 0012
+AGENCY CUSTOMER ID: HCS-23782
+POLICY INFORMATION
+CARRIER: Summit Insurance Company
+NAIC CODE: 44728
+POLICY NUMBER: GL-23578-B
+LINE OF BUSINESS: Commercial General Liability
+INSURED LOCATION CODE: 004
+DATE OF LOSS AND TIME: 01/17/2025, 10:45 AM
+INSURED INFORMATION
+NAME OF INSURED: Harrison Construction Services, LLC
+DATE OF BIRTH: N/A
+FEIN: 84-6729135
+PRIMARY PHONE #: (617) 555-9876 [X] BUS
+SECONDARY PHONE #: (617) 555-9877 [X] CELL
+INSURED'S MAILING ADDRESS: 1425 Industrial Parkway, Boston, MA 02128
+PRIMARY E-MAIL ADDRESS: michael@harrisonconst.com
+SECONDARY E-MAIL ADDRESS: office@harrisonconst.com
+CONTACT INFORMATION
+[X] CONTACT INSURED
+NAME OF CONTACT: Michael Harrison
+PRIMARY PHONE #: (617) 555-9876 [X] BUS
+SECONDARY PHONE #: (617) 555-4321 [X] CELL
+WHEN TO CONTACT: Business hours (8am-5pm)
+CONTACT'S MAILING ADDRESS: 1425 Industrial Parkway, Boston, MA 02128
+PRIMARY E-MAIL ADDRESS: michael@harrisonconst.com
+SECONDARY E-MAIL ADDRESS: N/A
+OCCURRENCE INFORMATION
+LOCATION OF OCCURRENCE:
+STREET: 288 Newbury Street
+CITY, STATE, ZIP: Boston, MA 02116
+COUNTRY: USA
+DESCRIBE LOCATION OF OCCURRENCE IF NOT AT SPECIFIC STREET ADDRESS:
+Commercial construction site at retail shopping center
+POLICE OR FIRE DEPARTMENT CONTACTED: Boston Police Department
+REPORT NUMBER: BPD-25-01749
+DESCRIPTION OF OCCURRENCE:
+Construction crane operated by insured's employee collapsed at approximately 10:45 AM on 01/17/2025.
+The crane boom fell onto the roof of an adjacent occupied retail building, causing significant structural
+damage and interior water damage due to broken water pipes. Two customers and one employee of the
+retail store suffered injuries when ceiling materials collapsed. Equipment failure is suspected but
+investigation is ongoing. OSHA has been notified and has commenced investigation. Site has been
+secured and temporary supports installed to prevent further collapse.
+TYPE OF LIABILITY
+PREMISES: INSURED IS
+[ ] OWNER
+[ ] TENANT
+[X] OTHER: Contractor
+TYPE OF PREMISES: Commercial construction site
+OWNER'S NAME & ADDRESS: Newbury Street Holdings, LLC, 500 Boylston Street, Suite 1400, Boston,
+MA 02116
+PRIMARY PHONE #: (617) 555-3300 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: rmanning@newburyholdings.com
+SECONDARY E-MAIL ADDRESS: N/A
+PRODUCTS: INSURED IS
+[ ] MANUFACTURER
+[ ] VENDOR
+[X] OTHER: Operator
+TYPE OF PRODUCT: Construction crane (Superior Crane Systems model SCS-450HD)
+MANUFACTURER'S NAME & ADDRESS: Superior Crane Systems, Inc., 8700 Industrial Boulevard,
+Pittsburgh, PA 15220
+PRIMARY PHONE #: (412) 555-8900 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: support@superiorcranes.com
+SECONDARY E-MAIL ADDRESS: N/A
+WHERE CAN PRODUCT BE SEEN? At incident site (288 Newbury Street, Boston, MA)
+INJURED / PROPERTY DAMAGED
+INJURY #1
+NAME & ADDRESS: Emily Chen, 45 Commonwealth Ave, Apt 3B, Boston, MA 02116
+PRIMARY PHONE #: (617) 555-2389 [X] CELL
+SECONDARY PHONE #: (617) 555-2390 [X] HOME
+PRIMARY E-MAIL ADDRESS: echen@email.com
+SECONDARY E-MAIL ADDRESS: N/A
+AGE: 34
+SEX: F
+OCCUPATION: Marketing Manager
+EMPLOYER'S NAME & ADDRESS: Boston Digital Marketing, 150 State Street, Boston, MA 02109
+PRIMARY PHONE #: (617) 555-7700 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: hr@bostondigital.com
+SECONDARY E-MAIL ADDRESS: N/A
+DESCRIBE INJURY: Head laceration requiring 15 stitches, concussion, shoulder contusion
+WHERE TAKEN: Massachusetts General Hospital
+WHAT WAS INJURED DOING? Shopping in retail store when ceiling partially collapsed
+INJURY #2
+NAME & ADDRESS: Robert Williams, 173 Marlborough Street, Boston, MA 02116
+PRIMARY PHONE #: (617) 555-3456 [X] CELL
+SECONDARY PHONE #: (617) 555-3457 [X] HOME
+PRIMARY E-MAIL ADDRESS: rwilliams@email.com
+SECONDARY E-MAIL ADDRESS: N/A
+AGE: 52
+SEX: M
+OCCUPATION: Accountant
+EMPLOYER'S NAME & ADDRESS: Williams & Associates, 200 Clarendon Street, Boston, MA 02116
+PRIMARY PHONE #: (617) 555-8800 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: info@williamsaccounting.com
+SECONDARY E-MAIL ADDRESS: N/A
+DESCRIBE INJURY: Fractured right tibia, multiple contusions, back strain
+WHERE TAKEN: Brigham and Women's Hospital
+WHAT WAS INJURED DOING? Customer in retail store when ceiling partially collapsed
+INJURY #3
+NAME & ADDRESS: Sarah Martinez, 67 Beacon Hill Drive, Cambridge, MA 02139
+PRIMARY PHONE #: (617) 555-6543 [X] CELL
+SECONDARY PHONE #: (617) 555-6544 [X] HOME
+PRIMARY E-MAIL ADDRESS: smartinez@email.com
+SECONDARY E-MAIL ADDRESS: N/A
+AGE: 28
+SEX: F
+OCCUPATION: Retail Sales Associate
+EMPLOYER'S NAME & ADDRESS: Newbury Street Boutique, Inc., 290 Newbury Street, Boston, MA
+02116
+PRIMARY PHONE #: (617) 555-2200 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: hr@newburyboutique.com
+SECONDARY E-MAIL ADDRESS: N/A
+DESCRIBE INJURY: Minor cuts from falling debris, sprained ankle
+WHERE TAKEN: Treated on scene, later visited urgent care
+WHAT WAS INJURED DOING? Working in retail store when ceiling partially collapsed
+PROPERTY DAMAGE #1
+DESCRIBE PROPERTY: Retail building at 290 Newbury Street - Two-story commercial structure
+ESTIMATE AMOUNT: $875,000
+WHERE CAN PROPERTY BE SEEN?: 290 Newbury Street, Boston, MA 02116
+NAME & ADDRESS (OWNER): Newbury Street Holdings, LLC, 500 Boylston Street, Suite 1400, Boston,
+MA 02116
+PRIMARY PHONE #: (617) 555-3300 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: rmanning@newburyholdings.com
+SECONDARY E-MAIL ADDRESS: N/A
+PROPERTY DAMAGE #2
+DESCRIBE PROPERTY: Interior fixtures, inventory, and business equipment
+ESTIMATE AMOUNT: $225,000
+WHERE CAN PROPERTY BE SEEN?: 290 Newbury Street, Boston, MA 02116
+NAME & ADDRESS (OWNER): Newbury Street Boutique, Inc., 290 Newbury Street, Boston, MA 02116
+PRIMARY PHONE #: (617) 555-2200 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: lshapiro@newburyboutique.com
+SECONDARY E-MAIL ADDRESS: N/A
+WITNESSES
+WITNESS #1
+NAME AND ADDRESS: James Wilson, 215 Boylston Street, Apt 7C, Boston, MA 02116
+PRIMARY PHONE #: (617) 555-4321 [X] CELL
+SECONDARY PHONE #: (617) 555-4322 [X] HOME
+PRIMARY E-MAIL ADDRESS: jwilson@email.com
+SECONDARY E-MAIL ADDRESS: N/A
+WITNESS #2
+NAME AND ADDRESS: Diane Park, 188 Newbury Street, Apt 3, Boston, MA 02116
+PRIMARY PHONE #: (617) 555-8765 [X] CELL
+SECONDARY PHONE #: (617) 555-8766 [X] HOME
+PRIMARY E-MAIL ADDRESS: dpark@email.com
+SECONDARY E-MAIL ADDRESS: N/A
+WITNESS #3
+NAME AND ADDRESS: Officer Thomas Reynolds, Boston Police Department, District D-4, 650 Harrison
+Avenue, Boston, MA 02116
+PRIMARY PHONE #: (617) 555-0000 [X] BUS
+SECONDARY PHONE #: N/A
+PRIMARY E-MAIL ADDRESS: treynolds@bpd.gov
+SECONDARY E-MAIL ADDRESS: N/A
+REMARKS
+Initial investigation indicates possible mechanical failure of crane hydraulic system. Crane had been
+inspected two weeks prior to incident with no issues noted. Construction site was properly permitted and
+cordoned off, but the crane boom extended beyond safety barriers when it collapsed. Immediate actions
+taken include securing the site, installing temporary structural supports, water shut-off to prevent further
+damage, and 24/7 security posted. Insurance carrier adjuster has been dispatched and is expected on site
+within 24 hours.
+REPORTED BY: Michael Harrison, Owner
+REPORTED TO: Jessica Thompson, Claims Representative
+==================================================
+
+File: PacificNorthwestSupplies_Loss05032025.pdf
+Type: pdf
+------------------------------
+Extracted Text:
+
+==================================================
+
+File: RivertownCoffeeShop_Loss04102025.pdf
+Type: pdf
+------------------------------
+Extracted Text:
+
+==================================================
+
+File: TestimonialShort.mp4
+Type: video
+------------------------------
+Extracted Text:
+I'm Jeff O'Connell I'm a senior software engineer for privately held Property and Casualty Company I've got about 15 years of experience as in web development full stack engineer 13 of those years was with the Healthcare Company how are came about this boot camp was I subscribe to new line and one day I received an email from new line and I talked about Ai and everything in our industry as far as developers are concerned is AI associated with my curiosity I like to think of myself as a lifelong learning subscribe to a workshop about Transformers and how they run their large language models and I have no AI experience no experience with machine learning neural networks all the things that run basically support generative programs out there now and this one seems to be it seemed to be a lot more in depth about what really goes on when you poop
+==================================================
+

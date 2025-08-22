@@ -1,0 +1,18 @@
+# File Text Extractor Dependencies
+# Core libraries - Windows-friendly versions
+SpeechRecognition==3.10.0
+pydub==0.25.1
+PyPDF2==3.0.1
+# Use PyMuPDF with a version that has pre-compiled wheels for Windows
+PyMuPDF==1.23.7
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+Pillow==10.0.1
+
+# Additional dependencies
+pyaudio==0.2.11
+numpy==1.24.3
+
+# Alternative PDF libraries if PyMuPDF fails
+# pdfplumber==0.9.0
+# pdf2image==1.16.3

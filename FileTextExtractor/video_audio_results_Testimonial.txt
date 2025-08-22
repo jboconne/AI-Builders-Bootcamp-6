@@ -1,0 +1,13 @@
+VIDEO AUDIO TEXT EXTRACTION RESULTS
+Original video: Testimonial.mp4
+Audio segments: 2
+============================================================
+
+SEGMENT 1
+----------------------------------------
+I'm Jeff O'Connell I'm a senior software engineer for privately held Property and Casualty Company I've got about 15 years of experience as in web development full stack engineer 13 of those years was with the Healthcare Company how are came about this boot camp was I subscribe to new line and one day I received an email from new line and I talked about Ai and everything in our industry as far as developers are concerned is AI associated with my curiosity I like to think of myself as a lifelong learning subscribe to a workshop about Transformers and how they run their large language models and I have no AI experience no experience with machine learning neural networks all the things that run basically support generative programs out there now and this one seems to be it seemed to be a lot more in depth about what really goes on when you poop period these are the presentations of the 13th week so if I have one thing to say it's very deep all the other activities surrounding the lectures as far as the coaching sessions the accountability group I got a lot out of that working with other participants in the boot camp bouncing
+
+SEGMENT 2
+----------------------------------------
+what you would find on the internet or for any other programs and I took another program I won't mention but it was more of an academic setting it was a good program but it didn't go into depth and I will treat this boot camp in the cocktail and the knowledge that I have another bookcase of knowledge that I have in my tool belt
+
